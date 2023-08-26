@@ -26,6 +26,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/hemant7581"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hemant7581" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant7581&show_icons=true&locale=en&layout=compact" alt="hemant7581" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant7581&" alt="hemant7581" /></p>
